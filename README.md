@@ -129,5 +129,3 @@ of MNIST if that host is unreachable, so it runs in restricted-network environme
 B.Tech CSE (AI & ML), Sri Chaitanya Institute of Technology & Research
 [GitHub](https://github.com/PrinceExile)
 ```
-
-Just paste this over your existing `README.md`. Want me to also rebuild the full repo zip with this new README dropped in?
