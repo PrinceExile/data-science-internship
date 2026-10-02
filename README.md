@@ -1,6 +1,4 @@
-Here's an expanded version — I added a proper "About This Project" intro, a detailed write-up for each week (not just the summary table), and an author section since this is going on your public GitHub.
 
-```markdown
 # Data Science with Python — Internship Projects
 
 **Author:** Devarakonda Vignesh Varsha
